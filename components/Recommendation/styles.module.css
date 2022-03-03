@@ -1,0 +1,16 @@
+.recommendation {
+
+}
+
+.recommendation_title {
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+  margin-bottom: 20px;
+  color: #000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 32px;
+  letter-spacing: 3px;
+  line-height: 32px;
+  text-align: center;
+  font-weight: 100;
+}

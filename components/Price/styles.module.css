@@ -1,0 +1,18 @@
+.price {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  box-sizing: content-box;
+  color: #828282;
+}
+
+.price--discounted .price__final {
+  display: inline-block;
+  color: #d33e38;
+  margin-left: 6px;
+}
+
+.price--discounted .price__original {
+  text-decoration: line-through;
+  display: inline-block;
+  color: #666
+}

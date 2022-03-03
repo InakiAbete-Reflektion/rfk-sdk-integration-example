@@ -1,0 +1,20 @@
+.content {
+  text-align: center;
+}
+
+.container {
+  width: 70% !important;
+  margin: auto !important;
+}
+
+.widgetsContainer {
+  padding: 40px;
+  margin: 10px 40px 40px 40px;
+  border: 2px dashed red;
+}
+
+.globalWidget {
+  padding: 40px;
+  margin: 10px 40px 40px 40px;
+  border: 2px dashed green;
+}
